@@ -2,8 +2,7 @@ import requests
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# API Setup
-API_KEY = "l66ABWnyFp1Em2FC6O1mF1hRghhaGpOu5rD6QHej"
+API_KEY = "api key"
 BASE_URL_QUOTE = "https://yfapi.net/v6/finance/quote"
 BASE_URL_TRENDING = "https://yfapi.net/v1/finance/trending/US"
 BASE_URL_HISTORICAL = "https://yfapi.net/v8/finance/spark"
